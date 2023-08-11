@@ -31,25 +31,24 @@ I am passionate about harnessing the power of data to create actionable insights
 ![Spark](https://img.shields.io/badge/-Spark-ff8f00?logo=apache-spark&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-44bd32?logo=jenkins&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232f3e?logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285f4?logo=google-cloud&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Airflow](https://img.shields.io/badge/-Airflow-00a2ed?logo=apache-airflow&logoColor=white)
 ![Data Quality](https://img.shields.io/badge/-Data%20Quality-27ae60)
 ![Data Governance](https://img.shields.io/badge/-Data%20Governance-27ae60)
 ![Data Catalog](https://img.shields.io/badge/-Data%20Catalog-27ae60)
 ![Lambda](https://img.shields.io/badge/-Lambda-ffcb3d?logo=aws-lambda&logoColor=black)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![Athena](https://img.shields.io/badge/-Athena-25a0c3?logo=aws-athena&logoColor=white)
 ![RDS](https://img.shields.io/badge/-RDS-1f618d?logo=amazon-rds&logoColor=white)
 ![API](https://img.shields.io/badge/-API-009432)
 ![Crawlers](https://img.shields.io/badge/-Crawlers-6ab04c)
-![Message](https://img.shields.io/badge/-Message-9b59b6)
 ![Pub Sub](https://img.shields.io/badge/-Pub%20Sub-8e44ad)
-![Scheduling](https://img.shields.io/badge/-Scheduling-27ae60)
 
 ## 📫 Let's Connect!
 
 Connect with me on LinkedIn to explore how I can help your company harness the power of data-driven insights for sustained growth and innovation.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/murillo-rodrigues/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/murillo-rodrigues/)
 
 Feel free to reach out to me at [murillorosilva@outlook.com] or [murillorosilva2010@gmail.com] for collaborations, discussions, or inquiries.
 
