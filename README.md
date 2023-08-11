@@ -1,6 +1,6 @@
 ## Hi Folks! 👋
 
-I'm Murillo, an experienced Data Engineering / Analytics Engineering Manager with a passion for leveraging data to drive business growth and innovation. With over 12 years of experience in the IT field, including 8 years dedicated to Data solutions development, I bring a wealth of expertise in data management, analytics, and software engineering.
+I'm Murillo, an experienced Data Engineering / Analytics Engineering Manager with a passion for leveraging data to drive business growth and innovation. With over 12 years of experience in the IT field, including 8 years dedicated to Data solutions development, I bring a wealth of expertise in data management, analytics, and software engineering, currently working in Loft Brasil.
 
 ## 👨‍💻 Expertise
 
@@ -46,15 +46,15 @@ I am passionate about harnessing the power of data to create actionable insights
 
 ## 📫 Let's Connect!
 
-Connect with me on LinkedIn to explore how I can help your company harness the power of data-driven insights for sustained growth and innovation.
+Feel free to reach out to me at by for collaborations, discussions, or inquiries.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/murillo-rodrigues/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-rodrigues/)
 
-Feel free to reach out to me at [murillorosilva@outlook.com] or [murillorosilva2010@gmail.com] for collaborations, discussions, or inquiries.
+![Email](https://img.shields.io/badge/-Email-red) murillorosilva@outlook.com
+
+![Email](https://img.shields.io/badge/-Email-red) murillorosilva2010@gmail.com
 
 Looking forward to connecting and exploring new opportunities together! 🌐
-
-
 
 <!--
 **murillo-ro-silva/murillo-ro-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
