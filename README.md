@@ -1,6 +1,6 @@
 ## Hi Folks! 👋
 
-I'm Murillo, an experienced Data Engineering / Analytics Engineering Manager with a passion for leveraging data to drive business growth and innovation. With over 12 years of experience in the IT field, including 8 years dedicated to Data solutions development, I bring a wealth of expertise in data management, analytics, and software engineering, currently working in Loft Brasil.
+I'm Murillo, an experienced Data Engineering / Analytics Engineering Manager with a passion for leveraging data to drive business growth and innovation. With over 12 years of experience in the IT field, including 8 years dedicated to Data solutions development, I bring a wealth of expertise in data management, analytics, and software engineering, currently working in Loft Brazil.
 
 ## 👨‍💻 Expertise
 
