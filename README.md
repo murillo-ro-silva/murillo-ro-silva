@@ -50,8 +50,6 @@ Feel free to reach out to me at by for collaborations, discussions, or inquiries
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-rodrigues/)
 
-![Email](https://img.shields.io/badge/-Email-red) murillorosilva@outlook.com
-
 ![Email](https://img.shields.io/badge/-Email-red) murillorosilva2010@gmail.com
 
 Looking forward to connecting and exploring new opportunities together! 🌐
