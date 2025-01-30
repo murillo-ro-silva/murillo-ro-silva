@@ -1,70 +1,75 @@
-## Hi Folks! 👋
+## Hey Everyone! 👋
 
-I'm Murillo, an experienced Data Engineering / Analytics Engineering Manager with a passion for leveraging data to drive business growth and innovation. With over 12 years of experience in the IT field, including 8 years dedicated to Data solutions development, I bring a wealth of expertise in data management, analytics, and software engineering, currently working in Loft Brazil.
+I’m **Murillo Rodrigues**, a **Data Engineer Lead and Entrepreneur**, and the founder of **[Datoga.io](https://datoga.io)**—a data consultancy that’s all about **Modern Data Stack, Data Science, and Generative AI**.
 
-## 👨‍💻 Expertise
+With more than **14 years in Software Engineering**, including a solid **9 years dedicated to Data Engineering and Data as a whole**, I’ve built a strong foundation in **data engineering, analytics, and infrastructure**. My mission is simple: **empower companies to unlock the true value of their data** by leveraging modern architectures, automation, and AI-driven strategies.
 
-- Analytics Engineering
-- Data Solutions Development
-- Big Data Technologies
-- Software Engineering Principles
-- Data Governance and Structuring
-- Project Management
+---
 
-## 🚀 Achievements
+## 🌟 About Datoga.io
 
-- Led cross-functional teams to develop and implement data-driven solutions that facilitated business growth and innovation.
-- Centralized data from internal and external sources, ensuring optimal performance, redundancy, privacy, and organization.
-- Collaborated extensively with software engineers, gaining valuable insights into software development practices.
-- Played a key role in establishing data-driven cultures within organizations through effective data structuring and governance.
+At **[Datoga.io](https://datoga.io)**, we’re in the business of delivering top-notch data solutions that **enable businesses to make the most of their data at scale**. Here’s what we focus on:
 
-## 🌟 Passion
+- **📊 Data Strategy & Architecture** – Crafting and deploying **Modern Data Stacks** that prioritize **scalability, performance, and governance**.
+- **🔍 Data Science & AI** – Using **machine learning, analytics, and generative AI** to uncover insights and **automate decision-making processes**.
+- **⚙️ Data Infrastructure & Ops** – Developing **reliable data pipelines**, infrastructure, and cloud solutions that follow **best practices in reliability and security**.
+- **🚀 AI-Driven Automation** – Introducing **AI-powered automation** to streamline data workflows and business operations.
 
-I am passionate about harnessing the power of data to create actionable insights and drive strategic decisions. By combining my technical skills with my managerial expertise, I help organizations achieve exponential growth and success through the effective use of data.
+We collaborate with tools like **Databricks, dbt, Dagster, Airbyte, and cloud-native platforms** to create **scalable, resilient, and intelligent** data systems.
 
-## ⚙️ Technologies & Tools
+---
 
-![DBT](https://img.shields.io/badge/-DBT-ff5733?logo=dbt&logoColor=white)
-![Databricks](https://img.shields.io/badge/-Databricks-ff69b4?logo=databricks&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-3498db?logo=sql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=white)
-![Spark](https://img.shields.io/badge/-Spark-ff8f00?logo=apache-spark&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-44bd32?logo=jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232f3e?logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285f4?logo=google-cloud&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Airflow](https://img.shields.io/badge/-Airflow-00a2ed?logo=apache-airflow&logoColor=white)
-![Data Quality](https://img.shields.io/badge/-Data%20Quality-27ae60)
-![Data Governance](https://img.shields.io/badge/-Data%20Governance-27ae60)
-![Data Catalog](https://img.shields.io/badge/-Data%20Catalog-27ae60)
-![Lambda](https://img.shields.io/badge/-Lambda-ffcb3d?logo=aws-lambda&logoColor=black)
-![Athena](https://img.shields.io/badge/-Athena-25a0c3?logo=aws-athena&logoColor=white)
-![RDS](https://img.shields.io/badge/-RDS-1f618d?logo=amazon-rds&logoColor=white)
-![API](https://img.shields.io/badge/-API-009432)
-![Crawlers](https://img.shields.io/badge/-Crawlers-6ab04c)
-![Pub Sub](https://img.shields.io/badge/-Pub%20Sub-8e44ad)
+## 🛠 Expertise
 
-## 📫 Let's Connect!
+- **Modern Data Stack**
+- **Data Engineering & Analytics**
+- **Big Data Technologies**
+- **Data Science & AI**
+- **Data Governance & Quality**
+- **Cloud Data Infrastructure**
+- **Software Engineering & Automation**
 
-Feel free to reach out to me at by for collaborations, discussions, or inquiries.
+---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-rodrigues/)
+## 🏆 Highlights
 
-![Email](https://img.shields.io/badge/-Email-red) murillorosilva2010@gmail.com
+- **Launched Datoga.io**, a consultancy that’s all about **Modern Data Stack, AI, and Analytics**.
+- **Guided data teams** in building **scalable data platforms** that enhance **business intelligence and operational efficiency**.
+- **Designed cloud-native data solutions** that combine **real-time streaming, batch processing, and AI-driven insights**.
+- **Integrated DataOps practices** to boost **reliability, governance, and automation** in data workflows.
 
-Looking forward to connecting and exploring new opportunities together! 🌐
+---
 
-<!--
-**murillo-ro-silva/murillo-ro-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧰 Tools & Technologies
 
-Here are some ideas to get you started:
+![DBT](https://img.shields.io/badge/-DBT-ff5733?logo=dbt&logoColor=white)  
+![Databricks](https://img.shields.io/badge/-Databricks-ff69b4?logo=databricks&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-3498db?logo=sql&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=white)  
+![Spark](https://img.shields.io/badge/-Spark-ff8f00?logo=apache-spark&logoColor=white)  
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-44bd32?logo=jenkins&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-232f3e?logo=amazon-aws&logoColor=white)  
+![GCP](https://img.shields.io/badge/-GCP-4285f4?logo=google-cloud&logoColor=white)  
+![Airflow](https://img.shields.io/badge/-Airflow-00a2ed?logo=apache-airflow&logoColor=white)  
+![Dagster](https://img.shields.io/badge/-Dagster-6f42c1?logo=dagster&logoColor=white)  
+![Data Quality](https://img.shields.io/badge/-Data%20Quality-27ae60)  
+![Data Governance](https://img.shields.io/badge/-Data%20Governance-27ae60)  
+![Data Catalog](https://img.shields.io/badge/-Data%20Catalog-27ae60)  
+![Lambda](https://img.shields.io/badge/-Lambda-ffcb3d?logo=aws-lambda&logoColor=black)  
+![Athena](https://img.shields.io/badge/-Athena-25a0c3?logo=aws-athena&logoColor=white)  
+![RDS](https://img.shields.io/badge/-RDS-1f618d?logo=amazon-rds&logoColor=white)  
+![API](https://img.shields.io/badge/-API-009432)  
+![Crawlers](https://img.shields.io/badge/-Crawlers-6ab04c)  
+![Pub Sub](https://img.shields.io/badge/-Pub%20Sub-8e44ad)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📩 Let’s Connect!
+
+I’m always up for a chat about **data, AI, and building scalable systems**. Don’t hesitate to drop me a line:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-rodrigues/)  
+📧 **Email:** murillo@datoga.io
+🌐 **Website:** [Datoga.io](https://datoga.io)  
+
+Looking forward to connecting and sharing ideas! 🚀
