@@ -24,7 +24,7 @@ I design and lead modern data platforms with **Databricks, Spark, dbt, Dagster, 
 Also used: Metabase, GitHub Actions, Terraform, APIs, Crawlers, GCP (BigQuery/PubSub) when needed.
 
 ## Availability
-I’m **not actively job-seeking**, but I’m **open to selective conversations** for **Senior/Staff/Lead** roles or **short-term advisory/consulting** that align with building resilient data platforms at scale.
+I’m **not actively job-seeking**, but I’m **open to selective conversations** or **short-term advisory/consulting** that align with building resilient data platforms at scale.
 
 ---
 
